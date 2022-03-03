@@ -1,0 +1,1 @@
+This is file on branch b2 which is sub branch of b1
